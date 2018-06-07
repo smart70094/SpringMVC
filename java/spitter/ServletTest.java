@@ -9,8 +9,6 @@ import javax.servlet.http.HttpServletResponse;
 
 import org.apache.log4j.Logger;
 
-import com.italent.controller.sys.LoginController;
-
 /**
  * Servlet implementation class ServletTest
  */
